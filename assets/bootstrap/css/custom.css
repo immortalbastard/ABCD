@@ -1,0 +1,193 @@
+.ch{
+    background-image: url("../../images/0Bynuv.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 50vh;
+}
+.ab{
+    border-radius: 30px;
+    margin: 40px;
+
+}
+.button{
+    border-radius: 30px;
+    background-color: transparent;
+    font-size: x-small;
+}
+.card{
+    border: unset;
+    margin: 10px;
+}
+.card-title{
+    font-size: 100%;
+    font-weight: bold;
+}
+.card-text{
+    font-size: 100%;
+}
+.cd{background-image: url("../../images/0Bynuv.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 50vh;
+
+}
+.df{
+    background-color: burlywood;
+}
+.head{
+    margin: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.nav_margin{
+    margin-left: 400px;
+}
+.form_groups{
+    margin-right: 40%;
+    margin-left: 40%;
+    width: 20%;
+    margin-top: 15%;
+}
+
+
+
+.ch{
+    background-image: url("../../images/0Bynuv.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 50vh;
+}
+.ab{
+    border-radius: 30px;
+    margin: 40px;
+
+}
+.button{
+    border-radius: 30px;
+    background-color: transparent;
+}
+.card{
+    border: unset;
+    margin: 10px;
+    height: auto;
+    margin-bottom: 40px;
+}
+.card-title{
+    font-size: 100%;
+    font-weight: bold;
+}
+.card-text{
+    font-size: 100%;
+}
+.cd{background-image: url("../../images/0Bynuv.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 50vh;
+
+}
+.df{
+    background-color: burlywood;
+    height: auto;
+    margin-top: 50px;
+    width: 100%;
+}
+
+.btnportfolio{
+    text-decoration: none;
+    border-radius: 2%;
+    border: 1.5px solid deeppink;
+    color: deeppink;
+}
+/*my form starts here*/
+.fo{
+    background-image: url("../../images/0Bynuv.jpg");
+    background-size: 150%;
+}
+.a{
+    align-items: center;
+    align-content: center;
+    color: white;
+}
+.b{align-content: center;
+    width:30% ;
+    height:5vh;
+    margin-right: 35%;
+    margin-left: 35%;
+    display: flex;
+
+
+}
+.c{-content: center;
+    width:30% ;
+    height:5vh;
+    margin-right: 35%;
+    margin-left: 35%;
+    display: flex;
+}
+.d{
+    width:30% ;
+    height:5vh;
+    margin-right: 35%;
+    margin-left: 35%;
+    display: flex;
+    background-color: purple;
+    color: black;
+
+}
+.rowy{ width:30% ;
+    height:5vh;
+    margin-right: 35%;
+    margin-left: 35%;
+    display: flex;
+
+}
+.rod{
+    background-color: orangered;
+}
+.ring{
+    background-color: blue;
+}
+.e{
+    align-content: center;
+    border-radius:5%;
+    width:20% ;
+    height:5vh ;
+    margin-right: 40%;
+    margin-left: 40%;
+    display: flex;
+    background-color: #0056b3;
+}
+.f{
+    -content: center;
+    border-radius: 5%;
+    width:20% ;
+    height:5vh;
+    margin-right: 40%;
+    margin-left: 40%;
+    display: flex;
+    background-color: orangered;
+}
+.g{
+    -content: center;
+    border-radius: 5%;
+    width:20% ;
+    height:30px ;
+    margin-right: 40%;
+    margin-left: 40%;
+    display: flex;
+    color: white;
+
+}
+.h{
+    -content: center;
+    border-radius: 5%;
+    width:20% ;
+    height:10px ;
+    margin-right: 40%;
+    margin-left: 40%;
+    display: flex;
+    color: white;
+
+}
